@@ -1,2 +1,2 @@
 # first-demo
-this is my first Git Repository
+this is my first Git Repository snake game
